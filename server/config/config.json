@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "TodosDB",
+    "host": "localhost",
+    "dialect": "mssql"
+  }
+}
